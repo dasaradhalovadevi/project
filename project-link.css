@@ -1,0 +1,115 @@
+.head1{text-align: center;text-color:#183b56}
+.container{margin:10px;
+padding:10px;}
+
+
+
+
+
+
+.background2{background-image:url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png');
+	        height:110vh;
+	        width:110vw;
+           background-size:cover; }
+.card1{background-color:#ffffff ;
+	:;
+
+}
+.button1{
+border-color:#d7dfe9;
+ }
+ .button2{
+ 	background-color:#5752ab;
+ }
+ .para{
+ 	 color: #323f4b6;
+ 	 font-family: bree serif;
+ }
+ .head2{
+ 	 color:#5752ab;
+ 	 font-family: roboto;
+ }
+
+
+
+
+
+
+
+
+
+
+ .background{background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png);
+            height:50vh;width:100vw;background-size: cover;padding:40px }
+.hii{color:white;font-family:caveat;font-size:30px;}
+.botton-section{
+	 padding:20px;
+	 background-color: #e6f6ff;
+	 text-align:center;
+}
+.card-container{
+    background-color: white;
+    text-align:center;
+    padding:10px;
+    height:160px;
+    width:140px;
+    margin:10px;
+    border-radius:10px;
+
+}
+
+
+.price{font-size:20px;
+font-size:bold;}
+
+
+
+
+
+
+
+
+
+.background3{background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png);
+            height:100vh;
+            width:100vw;
+            background-size:cover;
+        }
+.bgcontainer{background-color:#f6c56e;
+             text-align:left;
+             border-top-left-radius:5px ;
+             border-top-right-radius:5px ;
+              text-color:#323f4b;
+              padding:20px; }
+.head3{font-family: Bree serif;}
+.para{font-family: roboto;}
+.button{font-family: roboto;
+         border-top-left-radius: 5px;
+        border-top-right-radius:5px;
+        border-bottom-right-radius:5px ;
+        border-bottom-left-radius:5px ;
+         }
+
+
+.background5{background-image:url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png);
+            background-size:cover;
+            height:100vh;
+            width:100vw;
+            }
+.card1{
+	 background-color:#ffffff ;
+	 padding:10px;
+}
+.heading2{color:#323f4b;
+}
+
+.para5{color:#7b8794;}
+.button5{
+	 color:#ffffff;
+	 background-color: #323f4b;
+	 border-top-left-radius:5px;
+	 border-top-right-radius:5px ;
+	 border-bottom-left-radius:5px;
+	 border-bottom-right-radius:5px ;
+
+}
